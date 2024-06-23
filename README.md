@@ -1,6 +1,6 @@
 ![logo](https://github.com/Shreeyog-Gaikwad/Shreeyog-Gaikwad/blob/main/Github%20Banner.png)
-<h1 align="center">Hi 👋, I'm Shreeyog Gaikwad</h1>
-<h3 align="center">Web Developer</h3>
+
+<hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreeyog-gaikwad&label=Profile%20views&color=0e75b6&style=flat" alt="shreeyog-gaikwad" /> </p>
 
