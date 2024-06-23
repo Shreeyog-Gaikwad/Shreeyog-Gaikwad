@@ -29,5 +29,10 @@
 <div style="display:flex; flex-direction:column">
 <p><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreeyog-gaikwad&show_icons=true&locale=en&layout=compact" alt="shreeyog-gaikwad" /></p>
 <p>&nbsp;<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=shreeyog-gaikwad&show_icons=true&locale=en" alt="shreeyog-gaikwad" /></p>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+<p><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=shreeyog-gaikwad&" alt="shreeyog-gaikwad" /></p>
 </div>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shreeyog-gaikwad&" alt="shreeyog-gaikwad" /></p>
